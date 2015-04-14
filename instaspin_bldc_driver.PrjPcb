@@ -113,63 +113,51 @@ DocumentPath=Project Outputs for instaspin_bldc_driver\Footprint Comparison - in
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=SimpleBOM\instaspin_bldc_driver.BOM
+DocumentPath=.\SimpleBOM\instaspin_bldc_driver.BOM
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=SimpleBOM\instaspin_bldc_driver.CSV
+DocumentPath=SimpleBOM\instaspin_bldc_driver.BOM
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=NC Drill\instaspin_bldc_driver.DRR
+DocumentPath=.\SimpleBOM\instaspin_bldc_driver.CSV
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Gerber\instaspin_bldc_driver.EXTREP
+DocumentPath=SimpleBOM\instaspin_bldc_driver.CSV
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Gerber\instaspin_bldc_driver.GBL
+DocumentPath=.\NC Drill\instaspin_bldc_driver.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Gerber\instaspin_bldc_driver.GBO
+DocumentPath=NC Drill\instaspin_bldc_driver.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Gerber\instaspin_bldc_driver.GBS
+DocumentPath=.\Gerber\instaspin_bldc_driver.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Gerber\instaspin_bldc_driver.GKO
+DocumentPath=Gerber\instaspin_bldc_driver.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Gerber\instaspin_bldc_driver.GM1
+DocumentPath=.\NC Drill\instaspin_bldc_driver.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Gerber\instaspin_bldc_driver.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument13]
-DocumentPath=Gerber\instaspin_bldc_driver.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument14]
-DocumentPath=Gerber\instaspin_bldc_driver.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument15]
 DocumentPath=NC Drill\instaspin_bldc_driver.LDP
 DItemRevisionGUID=
 
-[GeneratedDocument16]
-DocumentPath=Gerber\instaspin_bldc_driver.REP
+[GeneratedDocument13]
+DocumentPath=.\Gerber\instaspin_bldc_driver.REP
 DItemRevisionGUID=
 
-[GeneratedDocument17]
-DocumentPath=NC Drill\instaspin_bldc_driver.TXT
+[GeneratedDocument14]
+DocumentPath=Gerber\instaspin_bldc_driver.REP
 DItemRevisionGUID=
 
 [Configuration1]
