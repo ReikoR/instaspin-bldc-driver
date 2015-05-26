@@ -43,7 +43,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=0
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -113,50 +113,26 @@ DocumentPath=Project Outputs for instaspin_bldc_driver\Footprint Comparison - in
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=.\SimpleBOM\instaspin_bldc_driver.BOM
-DItemRevisionGUID=
-
-[GeneratedDocument4]
 DocumentPath=SimpleBOM\instaspin_bldc_driver.BOM
 DItemRevisionGUID=
 
-[GeneratedDocument5]
-DocumentPath=.\SimpleBOM\instaspin_bldc_driver.CSV
-DItemRevisionGUID=
-
-[GeneratedDocument6]
+[GeneratedDocument4]
 DocumentPath=SimpleBOM\instaspin_bldc_driver.CSV
 DItemRevisionGUID=
 
-[GeneratedDocument7]
-DocumentPath=.\NC Drill\instaspin_bldc_driver.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument8]
+[GeneratedDocument5]
 DocumentPath=NC Drill\instaspin_bldc_driver.DRR
 DItemRevisionGUID=
 
-[GeneratedDocument9]
-DocumentPath=.\Gerber\instaspin_bldc_driver.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument10]
+[GeneratedDocument6]
 DocumentPath=Gerber\instaspin_bldc_driver.EXTREP
 DItemRevisionGUID=
 
-[GeneratedDocument11]
-DocumentPath=.\NC Drill\instaspin_bldc_driver.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument12]
+[GeneratedDocument7]
 DocumentPath=NC Drill\instaspin_bldc_driver.LDP
 DItemRevisionGUID=
 
-[GeneratedDocument13]
-DocumentPath=.\Gerber\instaspin_bldc_driver.REP
-DItemRevisionGUID=
-
-[GeneratedDocument14]
+[GeneratedDocument8]
 DocumentPath=Gerber\instaspin_bldc_driver.REP
 DItemRevisionGUID=
 
