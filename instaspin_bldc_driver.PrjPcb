@@ -104,38 +104,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[GeneratedDocument1]
-DocumentPath=Project Outputs for instaspin_bldc_driver\Design Rule Check - instaspin_bldc_driver.html
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=Project Outputs for instaspin_bldc_driver\Footprint Comparison - instaspin_bldc_driver.html
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=SimpleBOM\instaspin_bldc_driver.BOM
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=SimpleBOM\instaspin_bldc_driver.CSV
-DItemRevisionGUID=
-
-[GeneratedDocument5]
-DocumentPath=NC Drill\instaspin_bldc_driver.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument6]
-DocumentPath=Gerber\instaspin_bldc_driver.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument7]
-DocumentPath=NC Drill\instaspin_bldc_driver.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument8]
-DocumentPath=Gerber\instaspin_bldc_driver.REP
-DItemRevisionGUID=
-
 [Configuration1]
 Name=Default Configuration
 ParameterCount=0
